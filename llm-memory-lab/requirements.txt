@@ -1,0 +1,11 @@
+pytest
+numpy
+psutil
+requests
+tqdm
+dataclasses-json
+pytest-randomly
+pytest-xdist
+python-dotenv
+rich
+PyGithub
